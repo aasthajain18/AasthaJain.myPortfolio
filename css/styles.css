@@ -98,7 +98,7 @@ img{
     .navbar{
         min-height: 100vh;
         width: var(--sidbar-width);
-        background: linear-gradient(rgba(3, 63, 71, 0.9),rgba(3, 63, 71, 1)),url(../images/myFormalPic.jpeg);
+        background: linear-gradient(rgba(3, 63, 71, 0.9),rgba(3, 63, 71, 1)),url(/AasthaJain.myPortfolio/images/myFormalPic.jpeg);
         background-size: cover;
         background-position: center;
     }
